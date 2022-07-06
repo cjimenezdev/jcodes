@@ -12,12 +12,6 @@
 </head>
 <style>
     @import url('https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css');
-    :root{
-        --bg-primary: #7367f0;
-    }
-    .bg-primary {
-        background-color: var(--bg-primary) !important;
-    }
 </style>
 <body>
     <div class="container-fluid">
@@ -37,6 +31,6 @@
     </div>
     <script src="./assets/js/main.js"></script>
      <script src="./assets/js/mdb.min.js"></script>
-     <script src="./assets/js/mdb.min.map.js"></script>
+     <script src="./assets/js/mdb.min.js.map"></script>
 </body>
 </html>
