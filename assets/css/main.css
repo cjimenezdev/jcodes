@@ -36,7 +36,6 @@ body {
     flex-direction: column;
     font-family: 'Poppins', 'Helvetica', sans-serif !important;
     background-color: var(--bg-white) !important;
-    color: var(--text) !important;
     height: 100%;
     box-sizing: border-box;
     user-select: none;
