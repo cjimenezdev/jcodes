@@ -78,11 +78,6 @@ body.dark {
     background-color: var(--bg-white);
 }
 
-.bg-primary {
-    background-color: var(--bg-primary) !important;
-}
-
-
 /*///// Página no encontrada 404 /////*/
 
 
